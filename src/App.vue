@@ -1,12 +1,10 @@
 <script setup lang="ts">
 
 </script>
-```
 
 <template>
-  <div>app组件</div>
+  <router-view></router-view>
 </template>
 
-<style scoped></style>
-
-```js
+<style lang="less" scoped>
+</style>
